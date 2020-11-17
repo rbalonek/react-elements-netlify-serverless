@@ -4,6 +4,6 @@
   functions = "functions"
 
 [template.environment]
-  REACT_APP_STRIPE_PUBLISHABLE_KEY = "Add your Stripe publishable key here: pk_test_xxx"
-  STRIPE_SECRET_KEY = "Add your Stripe secret key here: sk_test_xxx"
+  REACT_APP_STRIPE_PUBLISHABLE_KEY = "pk_test_LOj2KeGujoRnugRqVcfqbTuU008hil8nX9"
+  STRIPE_SECRET_KEY = "sk_test_TMnYJNApvGDTImxrlU1YJKcs00zmAwmQlI"
   STRIPE_WEBHOOK_SECRET = "[Optional] Add your webhook secret here: whsec_xxx"
